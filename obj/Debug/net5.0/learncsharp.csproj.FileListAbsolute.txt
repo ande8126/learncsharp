@@ -1,0 +1,15 @@
+/Users/patrickanderson/postprime/learncsharp/bin/Debug/net5.0/learncsharp.deps.json
+/Users/patrickanderson/postprime/learncsharp/bin/Debug/net5.0/learncsharp.runtimeconfig.json
+/Users/patrickanderson/postprime/learncsharp/bin/Debug/net5.0/learncsharp.runtimeconfig.dev.json
+/Users/patrickanderson/postprime/learncsharp/bin/Debug/net5.0/learncsharp.dll
+/Users/patrickanderson/postprime/learncsharp/bin/Debug/net5.0/ref/learncsharp.dll
+/Users/patrickanderson/postprime/learncsharp/bin/Debug/net5.0/learncsharp.pdb
+/Users/patrickanderson/postprime/learncsharp/obj/Debug/net5.0/learncsharp.csproj.AssemblyReference.cache
+/Users/patrickanderson/postprime/learncsharp/obj/Debug/net5.0/learncsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickanderson/postprime/learncsharp/obj/Debug/net5.0/learncsharp.AssemblyInfoInputs.cache
+/Users/patrickanderson/postprime/learncsharp/obj/Debug/net5.0/learncsharp.AssemblyInfo.cs
+/Users/patrickanderson/postprime/learncsharp/obj/Debug/net5.0/learncsharp.csproj.CoreCompileInputs.cache
+/Users/patrickanderson/postprime/learncsharp/obj/Debug/net5.0/learncsharp.dll
+/Users/patrickanderson/postprime/learncsharp/obj/Debug/net5.0/ref/learncsharp.dll
+/Users/patrickanderson/postprime/learncsharp/obj/Debug/net5.0/learncsharp.pdb
+/Users/patrickanderson/postprime/learncsharp/obj/Debug/net5.0/learncsharp.genruntimeconfig.cache
